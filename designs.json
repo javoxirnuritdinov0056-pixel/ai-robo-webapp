@@ -1,0 +1,44 @@
+[
+  {
+    "id": "talim_antichnaya_literatura",
+    "name": "АНТИЧНАЯ ЛИТЕРАТУРА",
+    "category": "talim",
+    "cat_label": "Talim"
+  },
+  {
+    "id": "talim_dobro_pozhalovat_v_kabinet_101",
+    "name": "Добро пожаловать в кабинет 101",
+    "category": "talim",
+    "cat_label": "Talim"
+  },
+  {
+    "id": "talim_zagolovok_slayda",
+    "name": "ЗАГОЛОВОК СЛАЙДА",
+    "category": "talim",
+    "cat_label": "Talim"
+  },
+  {
+    "id": "talim_kurs_obucheniya",
+    "name": "Курс обучения",
+    "category": "talim",
+    "cat_label": "Talim"
+  },
+  {
+    "id": "talim_lina_komarova",
+    "name": "Лина Комарова",
+    "category": "talim",
+    "cat_label": "Talim"
+  },
+  {
+    "id": "talim_maket_zagolovka",
+    "name": "Макет заголовка",
+    "category": "talim",
+    "cat_label": "Talim"
+  },
+  {
+    "id": "talim_prepodavat_kurs",
+    "name": "Преподавать курс",
+    "category": "talim",
+    "cat_label": "Talim"
+  }
+]
