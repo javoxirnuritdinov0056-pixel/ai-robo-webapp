@@ -73,22 +73,27 @@
     .design-grid {
       display: grid;
       grid-template-columns: repeat(2, 1fr);
-      gap: 14px;
+      grid-auto-rows: 160px;
+      gap: 12px;
       padding: 16px;
     }
 
     .design-card {
-      border-radius: 16px;
+      border-radius: 14px;
       overflow: hidden;
       cursor: pointer;
       box-shadow: 0 2px 10px rgba(0,0,0,0.10);
       transition: transform 0.12s ease, box-shadow 0.12s ease;
       user-select: none;
+      display: flex;
+      flex-direction: column;
+      height: 160px;
     }
     .design-card:active { transform: scale(0.95); box-shadow: 0 1px 4px rgba(0,0,0,0.10); }
 
     .slide-preview {
-      height: 110px;
+      flex: 1;
+      min-height: 0;
       overflow: hidden;
       background: #ddd;
       position: relative;
@@ -109,8 +114,25 @@
     .slide-preview.loaded::after { display: none; }
     @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
 
-    .design-footer { background: var(--secondary); padding: 9px 12px 10px; }
-    .design-name   { font-size: 12px; font-weight: 700; color: var(--text); }
+    .design-footer {
+      background: var(--secondary);
+      padding: 7px 10px 8px;
+      flex-shrink: 0;
+      height: 44px;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+    }
+    .design-name {
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--text);
+      line-height: 1.3;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
 
     /* Loading / error states */
     .msg {
