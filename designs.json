@@ -1,44 +1,482 @@
 [
   {
-    "id": "talim_antichnaya_literatura",
-    "name": "АНТИЧНАЯ ЛИТЕРАТУРА",
+    "id": "biznes_business_action_plan_by_slidesgo",
+    "name": "Business Action Plan by Slidesgo",
+    "category": "biznes",
+    "cat_label": "Biznes"
+  },
+  {
+    "id": "biznes_data_infographics_by_slidesgo",
+    "name": "Data Infographics by Slidesgo",
+    "category": "biznes",
+    "cat_label": "Biznes"
+  },
+  {
+    "id": "biznes_geometric_patterns_by_slidesgo",
+    "name": "Geometric Patterns by Slidesgo",
+    "category": "biznes",
+    "cat_label": "Biznes"
+  },
+  {
+    "id": "biznes_german_tech_company_business_plan_by_slidesgo",
+    "name": "German Tech Company Business Plan by Slidesgo",
+    "category": "biznes",
+    "cat_label": "Biznes"
+  },
+  {
+    "id": "biznes_macari_company_profile_by_slidesgo",
+    "name": "Macari Company Profile by Slidesgo ",
+    "category": "biznes",
+    "cat_label": "Biznes"
+  },
+  {
+    "id": "biznes_networking_newsletter_red_variant",
+    "name": "Networking Newsletter Red variant",
+    "category": "biznes",
+    "cat_label": "Biznes"
+  },
+  {
+    "id": "biznes_private_security_company_business_plan_by_slidesgo",
+    "name": "Private Security Company Business Plan by Slidesgo",
+    "category": "biznes",
+    "cat_label": "Biznes"
+  },
+  {
+    "id": "biznes_telecommunication_company_business_plan_by_slidesgo",
+    "name": "Telecommunication Company Business Plan by Slidesgo",
+    "category": "biznes",
+    "cat_label": "Biznes"
+  },
+  {
+    "id": "ijodiy_classroom_rules_by_slidesgo",
+    "name": "Classroom Rules by Slidesgo",
+    "category": "ijodiy",
+    "cat_label": "ijodiy"
+  },
+  {
+    "id": "ijodiy_crazy_watercolor_agency_xl_by_slidesgo",
+    "name": "Crazy Watercolor Agency XL by Slidesgo",
+    "category": "ijodiy",
+    "cat_label": "ijodiy"
+  },
+  {
+    "id": "ijodiy_creative_chalkboard_design_by_slidesgo",
+    "name": "Creative Chalkboard Design by Slidesgo",
+    "category": "ijodiy",
+    "cat_label": "ijodiy"
+  },
+  {
+    "id": "ijodiy_creative_company_profile_minitheme_by_slidesgo",
+    "name": "Creative Company Profile Minitheme by Slidesgo",
+    "category": "ijodiy",
+    "cat_label": "ijodiy"
+  },
+  {
+    "id": "ijodiy_creative_watercolor_by_slidesgo",
+    "name": "Creative Watercolor by Slidesgo",
+    "category": "ijodiy",
+    "cat_label": "ijodiy"
+  },
+  {
+    "id": "ijodiy_graphic_design_project_proposal_xl",
+    "name": "graphic-design-project-proposal-XL",
+    "category": "ijodiy",
+    "cat_label": "ijodiy"
+  },
+  {
+    "id": "ijodiy_meet_our_professors_xl_by_slidesgo",
+    "name": "Meet Our Professors XL by Slidesgo",
+    "category": "ijodiy",
+    "cat_label": "ijodiy"
+  },
+  {
+    "id": "ijodiy_the_end_of_a_cycle_by_slidesgo",
+    "name": "The End of a Cycle by Slidesgo",
+    "category": "ijodiy",
+    "cat_label": "ijodiy"
+  },
+  {
+    "id": "ilm_fan_artificial_intelligence_ai_technology_project_proposal_by_slidesgo",
+    "name": "Artificial Intelligence (AI) Technology Project Proposal _ by Slidesgo",
+    "category": "ilm_fan",
+    "cat_label": "ilm-fan"
+  },
+  {
+    "id": "ilm_fan_computer_science_mathematics_major_for_college_mathematics_by_slidesgo",
+    "name": "Computer Science & Mathematics Major For College_ Mathematics by Slidesgo",
+    "category": "ilm_fan",
+    "cat_label": "ilm-fan"
+  },
+  {
+    "id": "ilm_fan_cyber_futuristic_ai_technology_thesis_defense_by_slidesgo",
+    "name": "Cyber-Futuristic AI Technology Thesis Defense by Slidesgo",
+    "category": "ilm_fan",
+    "cat_label": "ilm-fan"
+  },
+  {
+    "id": "ilm_fan_data_science_project_proposal_xl_by_slidesgo",
+    "name": "Data Science Project Proposal XL by Slidesgo",
+    "category": "ilm_fan",
+    "cat_label": "ilm-fan"
+  },
+  {
+    "id": "ilm_fan_medical_thesis_by_slidesgo",
+    "name": "Medical Thesis by Slidesgo",
+    "category": "ilm_fan",
+    "cat_label": "ilm-fan"
+  },
+  {
+    "id": "ilm_fan_physics_subject_for_high_school_newtons_laws_by_slidesgo",
+    "name": "Physics Subject for High School_ Newton's Laws by Slidesgo",
+    "category": "ilm_fan",
+    "cat_label": "ilm-fan"
+  },
+  {
+    "id": "ilm_fan_research_methods_in_health_science_bachelor_of_science_in_health_science_by_slidesgo",
+    "name": "Research Methods in Health Science - Bachelor of Science in Health Science by Slidesgo",
+    "category": "ilm_fan",
+    "cat_label": "ilm-fan"
+  },
+  {
+    "id": "ilm_fan_science_subject_for_high_school_10th_grade_atoms_and_the_periodic_table_by_slidesgo",
+    "name": "Science Subject for High School - 10th Grade_ Atoms and the Periodic Table _ by Slidesgo",
+    "category": "ilm_fan",
+    "cat_label": "ilm-fan"
+  },
+  {
+    "id": "klassik_brown_minimalist_grainy_pitch_deck_by_slidesgo",
+    "name": "Brown Minimalist Grainy Pitch Deck by Slidesgo",
+    "category": "klassik",
+    "cat_label": "klassik"
+  },
+  {
+    "id": "klassik_dark_elegant_korean_style_project_proposal_by_slidesgo",
+    "name": "Dark Elegant Korean Style Project Proposal by Slidesgo",
+    "category": "klassik",
+    "cat_label": "klassik"
+  },
+  {
+    "id": "klassik_elegant_bachelor_thesis_blue_variant_by_slidesgo",
+    "name": "Elegant Bachelor Thesis Blue variant _ by Slidesgo",
+    "category": "klassik",
+    "cat_label": "klassik"
+  },
+  {
+    "id": "klassik_elegant_black_white_thesis_defense_by_slidesgo",
+    "name": "Elegant Black & White Thesis Defense by Slidesgo",
+    "category": "klassik",
+    "cat_label": "klassik"
+  },
+  {
+    "id": "klassik_elegant_laces_project_proposal_by_slidesgo",
+    "name": "Elegant Laces Project Proposal by Slidesgo",
+    "category": "klassik",
+    "cat_label": "klassik"
+  },
+  {
+    "id": "klassik_elegant_style_university_lesson_by_slidesgo",
+    "name": "Elegant Style University Lesson by Slidesgo",
+    "category": "klassik",
+    "cat_label": "klassik"
+  },
+  {
+    "id": "klassik_institutional_meeting_by_slidesgo",
+    "name": "Institutional Meeting by Slidesgo",
+    "category": "klassik",
+    "cat_label": "klassik"
+  },
+  {
+    "id": "klassik_minimalist_business_slides_xl_by_slidesgo",
+    "name": "Minimalist Business Slides XL by Slidesgo",
+    "category": "klassik",
+    "cat_label": "klassik"
+  },
+  {
+    "id": "moliya_accounting_services_company_profile_by_slidesgo",
+    "name": "Accounting Services Company Profile by Slidesgo",
+    "category": "moliya",
+    "cat_label": "moliya"
+  },
+  {
+    "id": "moliya_budget_infographics_by_slidesgo",
+    "name": "Budget Infographics by Slidesgo",
+    "category": "moliya",
+    "cat_label": "moliya"
+  },
+  {
+    "id": "moliya_community_bank_business_plan_blue_variant_by_slidesgo",
+    "name": "Community Bank Business Plan blue variant by Slidesgo",
+    "category": "moliya",
+    "cat_label": "moliya"
+  },
+  {
+    "id": "moliya_economics_thesis_blue_variant",
+    "name": "Economics Thesis Blue variant",
+    "category": "moliya",
+    "cat_label": "moliya"
+  },
+  {
+    "id": "moliya_falling_money_background_animation",
+    "name": "falling-money-background-animation",
+    "category": "moliya",
+    "cat_label": "moliya"
+  },
+  {
+    "id": "moliya_financial_infographics_by_slidesgo",
+    "name": "Financial Infographics by Slidesgo",
+    "category": "moliya",
+    "cat_label": "moliya"
+  },
+  {
+    "id": "moliya_gap_analysis_theme_for_business_by_slidesgo",
+    "name": "Gap Analysis Theme for Business by Slidesgo",
+    "category": "moliya",
+    "cat_label": "moliya"
+  },
+  {
+    "id": "moliya_history_subject_for_high_school_capitalism_by_slidesgo",
+    "name": "History Subject for High School_ Capitalism by Slidesgo",
+    "category": "moliya",
+    "cat_label": "moliya"
+  },
+  {
+    "id": "shaxar_business_major_for_college_travel_or_tourism_management_by_slidesgo",
+    "name": "Business Major for College_ Travel or Tourism Management by Slidesgo",
+    "category": "shaxar",
+    "cat_label": "shaxar"
+  },
+  {
+    "id": "shaxar_california_by_slidesgo",
+    "name": "California by Slidesgo",
+    "category": "shaxar",
+    "cat_label": "shaxar"
+  },
+  {
+    "id": "shaxar_engineering_project_proposal_green_variant",
+    "name": "Engineering Project Proposal Green variant",
+    "category": "shaxar",
+    "cat_label": "shaxar"
+  },
+  {
+    "id": "shaxar_new_york_city_subway_social_media_by_slidesgo",
+    "name": "New York City Subway Social Media _ by Slidesgo",
+    "category": "shaxar",
+    "cat_label": "shaxar"
+  },
+  {
+    "id": "shaxar_night_time_aesthetic_newsletter_by_slidesgo",
+    "name": "Night Time Aesthetic Newsletter by Slidesgo",
+    "category": "shaxar",
+    "cat_label": "shaxar"
+  },
+  {
+    "id": "shaxar_population_urbanisation_and_environment_by_slidesgo",
+    "name": "Population, Urbanisation and Environment by Slidesgo",
+    "category": "shaxar",
+    "cat_label": "shaxar"
+  },
+  {
+    "id": "shaxar_quality_of_life_in_urban_areas_by_slidesgo",
+    "name": "Quality of Life in Urban Areas by Slidesgo",
+    "category": "shaxar",
+    "cat_label": "shaxar"
+  },
+  {
+    "id": "shaxar_tips_to_reduce_traffic_jams_in_cities_by_slidesgo",
+    "name": "Tips to Reduce Traffic Jams in Cities by Slidesgo",
+    "category": "shaxar",
+    "cat_label": "shaxar"
+  },
+  {
+    "id": "tabiat_biodiversity_in_temperate_forests_thesis_defense_by_slidesgo",
+    "name": "Biodiversity in Temperate Forests Thesis Defense by Slidesgo",
+    "category": "tabiat",
+    "cat_label": "tabiat"
+  },
+  {
+    "id": "tabiat_corporate_sustainability_by_slidesgo",
+    "name": "Corporate Sustainability by Slidesgo",
+    "category": "tabiat",
+    "cat_label": "tabiat"
+  },
+  {
+    "id": "tabiat_cultural_landscape_conservation_campaign_by_slidesgo",
+    "name": "Cultural Landscape Conservation Campaign by Slidesgo",
+    "category": "tabiat",
+    "cat_label": "tabiat"
+  },
+  {
+    "id": "tabiat_national_parks_biodiversity_hotspots_by_slidesgo",
+    "name": "National Parks_ Biodiversity Hotspots by Slidesgo",
+    "category": "tabiat",
+    "cat_label": "tabiat"
+  },
+  {
+    "id": "tabiat_nature_documentary_pitch_deck_by_slidesgo",
+    "name": "Nature Documentary Pitch Deck by Slidesgo",
+    "category": "tabiat",
+    "cat_label": "tabiat"
+  },
+  {
+    "id": "tabiat_nature_inspired_design_by_slidesgo",
+    "name": "Nature Inspired design by Slidesgo",
+    "category": "tabiat",
+    "cat_label": "tabiat"
+  },
+  {
+    "id": "tabiat_nature_photography_day_by_slidesgo",
+    "name": "Nature Photography Day by Slidesgo",
+    "category": "tabiat",
+    "cat_label": "tabiat"
+  },
+  {
+    "id": "tabiat_vibrant_green_leaves_by_slidesgo",
+    "name": "Vibrant Green Leaves by Slidesgo",
+    "category": "tabiat",
+    "cat_label": "tabiat"
+  },
+  {
+    "id": "talim_abolishing_slavery_sexagenarian_law_golden_law_by_slidesgo",
+    "name": "Abolishing Slavery_ Sexagenarian Law & Golden Law by Slidesgo",
     "category": "talim",
     "cat_label": "Talim"
   },
   {
-    "id": "talim_dobro_pozhalovat_v_kabinet_101",
-    "name": "Добро пожаловать в кабинет 101",
+    "id": "talim_about_me_for_students_by_slidesgo",
+    "name": "About Me for Students by Slidesgo",
     "category": "talim",
     "cat_label": "Talim"
   },
   {
-    "id": "talim_zagolovok_slayda",
-    "name": "ЗАГОЛОВОК СЛАЙДА",
+    "id": "talim_back_to_school_info_for_parents_students_xl_by_slidesgo_1",
+    "name": "Back to School - Info for Parents & Students XL by Slidesgo (1)",
     "category": "talim",
     "cat_label": "Talim"
   },
   {
-    "id": "talim_kurs_obucheniya",
-    "name": "Курс обучения",
+    "id": "talim_ballpoint_pen_planner_black_variant_by_slidesgo",
+    "name": "Ballpoint Pen Planner Black variant by Slidesgo",
     "category": "talim",
     "cat_label": "Talim"
   },
   {
-    "id": "talim_lina_komarova",
-    "name": "Лина Комарова",
+    "id": "talim_cryptid_academia_aesthetics_school_center_by_slidesgo",
+    "name": "Cryptid Academia Aesthetics School Center by Slidesgo",
     "category": "talim",
     "cat_label": "Talim"
   },
   {
-    "id": "talim_maket_zagolovka",
-    "name": "Макет заголовка",
+    "id": "talim_elegant_education_pack_for_students_green_by_slidesgo",
+    "name": "Elegant Education Pack for Students Green by Slidesgo",
     "category": "talim",
     "cat_label": "Talim"
   },
   {
-    "id": "talim_prepodavat_kurs",
-    "name": "Преподавать курс",
+    "id": "talim_papyrus_history_lesson_xl_by_slidesgo",
+    "name": "Papyrus History Lesson XL by Slidesgo",
     "category": "talim",
     "cat_label": "Talim"
+  },
+  {
+    "id": "talim_social_studies_subject_for_high_school_modern_age_by_slidesgo",
+    "name": "Social Studies Subject for High School_ Modern Age by Slidesgo",
+    "category": "talim",
+    "cat_label": "Talim"
+  },
+  {
+    "id": "texnologiya_5g_wireless_technology_newsletter_by_slidesgo",
+    "name": "5G Wireless Technology Newsletter by Slidesgo",
+    "category": "texnologiya",
+    "cat_label": "texnologiya"
+  },
+  {
+    "id": "texnologiya_blockchain_visuals_by_slidesgo",
+    "name": "Blockchain Visuals by Slidesgo",
+    "category": "texnologiya",
+    "cat_label": "texnologiya"
+  },
+  {
+    "id": "texnologiya_computer_networking_project_proposal_infographics_by_slidesgo",
+    "name": "Computer Networking Project Proposal Infographics by Slidesgo",
+    "category": "texnologiya",
+    "cat_label": "texnologiya"
+  },
+  {
+    "id": "texnologiya_cyber_futuristic_ai_technology_thesis_defense_by_slidesgo",
+    "name": "Cyber-Futuristic AI Technology Thesis Defense by Slidesgo",
+    "category": "texnologiya",
+    "cat_label": "texnologiya"
+  },
+  {
+    "id": "texnologiya_mobile_learning_hub_by_slidesgo",
+    "name": "Mobile Learning Hub by Slidesgo",
+    "category": "texnologiya",
+    "cat_label": "texnologiya"
+  },
+  {
+    "id": "texnologiya_online_tv_shows_pitch_deck_by_slidesgo",
+    "name": "Online Tv Shows Pitch Deck by Slidesgo",
+    "category": "texnologiya",
+    "cat_label": "texnologiya"
+  },
+  {
+    "id": "texnologiya_technology_market_research_pitch_deck_by_slidesgo",
+    "name": "Technology Market Research Pitch Deck by Slidesgo",
+    "category": "texnologiya",
+    "cat_label": "texnologiya"
+  },
+  {
+    "id": "texnologiya_user_experience_studio_by_slidesgo",
+    "name": "User Experience Studio by Slidesgo",
+    "category": "texnologiya",
+    "cat_label": "texnologiya"
+  },
+  {
+    "id": "turizm_business_trip_organization_proposal_by_slidesgo",
+    "name": "Business Trip Organization Proposal by Slidesgo",
+    "category": "turizm",
+    "cat_label": "turizm"
+  },
+  {
+    "id": "turizm_elegant_travel_plan_by_slidego",
+    "name": "Elegant Travel Plan by Slidego",
+    "category": "turizm",
+    "cat_label": "turizm"
+  },
+  {
+    "id": "turizm_flight_attendant_cv_by_slidesgo",
+    "name": "Flight Attendant CV by Slidesgo",
+    "category": "turizm",
+    "cat_label": "turizm"
+  },
+  {
+    "id": "turizm_lets_travel_together_newsletter_infographics_by_slidesgo",
+    "name": "Let's Travel Together Newsletter Infographics by Slidesgo",
+    "category": "turizm",
+    "cat_label": "turizm"
+  },
+  {
+    "id": "turizm_social_studies_subject_for_middle_school_southern_region_of_brazil_by_slidesgo",
+    "name": "Social Studies Subject for Middle School_ Southern Region of Brazil by Slidesgo",
+    "category": "turizm",
+    "cat_label": "turizm"
+  },
+  {
+    "id": "turizm_tourist_attractions_social_media_strategy_dark_variant_by_slidesgo",
+    "name": "Tourist Attractions Social Media Strategy Dark variant by Slidesgo",
+    "category": "turizm",
+    "cat_label": "turizm"
+  },
+  {
+    "id": "turizm_travel_agency_brochure_by_slidesgo",
+    "name": "Travel Agency Brochure by Slidesgo",
+    "category": "turizm",
+    "cat_label": "turizm"
+  },
+  {
+    "id": "turizm_travel_plan_scrapbook_style_by_slidesgo",
+    "name": "Travel Plan Scrapbook Style by Slidesgo",
+    "category": "turizm",
+    "cat_label": "turizm"
   }
 ]
